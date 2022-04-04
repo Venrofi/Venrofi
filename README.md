@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I’m Radek - @Venrofi</h1>
+<h3 align="center">A passionate Front-End Developer. Currently studying Computer Science at Silesian University of Technology 🎓</h3>
 
 
 - 👀 I’m interested in Web Design & Web Development
-- 🌱 I’m currently learning HTML, SASS, JavaScript & React.
+- 🌱 I’m currently learning HTML, SASS, JavaScript & React
 - 💞️ I’m looking to collaborate on FrontEnd Projects
   
  In 2022 my goal is to land my first job in IT field. This is the place where I will post all of my recent projects that I'm working on.
