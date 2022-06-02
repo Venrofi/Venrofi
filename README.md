@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Radek - @Venrofi</h1>
-<h3 align="center">A passionate Front-End Developer. Currently studying Computer Science at Silesian University of Technology 🎓</h3>
+<h3 align="center">A passionate Front-End Developer.<br>Currently studying Computer Science at Silesian University of Technology 🎓</h3>
 
 
 - 👀 I’m interested in Web Design & Web Development
