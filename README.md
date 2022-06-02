@@ -3,8 +3,8 @@
 
 
 - 👀 I’m interested in Web Design & Web Development
-- 🌱 I’m currently learning HTML, SASS, JavaScript & React
-- 💞️ I’m looking to collaborate on FrontEnd Projects
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking forward to collaborating on FrontEnd projects
   
  In 2022 my goal is to land my first job in IT field. This is the place where I will post all of my recent projects that I'm working on.
 
